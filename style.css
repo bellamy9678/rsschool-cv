@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+	line-height: 20px;
+}
+
+h1 {
+	margin: 0 auto 20px;
+	width: fit-content;
+
+}
+
+section {
+	width: 65%;
+	max-width: 1024px;
+	margin: 5px auto;
+}
+
+.image {
+	width: 30%;
+	float: left;
+}
+
+.cv {
+	width: 70%;
+	float: right;
+}
+
+.cv ul {
+	list-style-type: none;
+}
